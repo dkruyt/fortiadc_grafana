@@ -1,6 +1,6 @@
 FortiADC is is a application delivery controllers (loadbalancer). The devices metrics are availalbe via SNMP. So it's quite easy to collect those and display them in Grafana.
 
-![connectionpool-1](/content/images/2018/07/connectionpool-1.png)
+![connectionpool-1](https://blog.kruyt.org/content/images/2018/07/connectionpool-1.png)
 
 ### Pre Install
 
@@ -23,7 +23,7 @@ Get the latest files, at [my GitHub page](https://github.com/dkruyt/fortiadc_gra
 
 After you setup all, you should have a dashboard like this.
 
-![screencapture-fortiadc-blur](/content/images/2018/07/screencapture-fortiadc-blur.png)
+![screencapture-fortiadc-blur](https://blog.kruyt.org/content/images/2018/07/screencapture-fortiadc-blur.png)
 
 
 
